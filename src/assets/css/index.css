@@ -1,0 +1,32 @@
+.singleImage {
+  width: 300px;
+  height: 300px;
+  clear: both;
+  cursor: pointer;
+  
+}
+.singleImage > div {
+  width: 100px;
+  height: 100px;
+  float: left;
+  line-height: 100px;
+  text-align: center;
+}
+.sngleImage > div > img {
+  display: inline-block;
+  vertical-align: middle;
+  max-width: 80%;
+  max-height: 80%;
+}
+
+.grid {
+  width: 500px;
+  height: 500px;
+  display: grid;
+  grid-template-columns: repeat(3, 0fr);
+}
+
+div > img {
+  padding: 5px;
+  background-color: #ccc;
+}

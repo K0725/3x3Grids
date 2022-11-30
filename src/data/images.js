@@ -1,0 +1,66 @@
+export const images = [
+  {
+    className: "singleImage",
+    src: "./images/C1.jpg",
+    alt: "something",
+    id: 0,
+    result: false,
+  },
+  {
+    className: "singleImage",
+    src: "./images/C2.jpg",
+    alt: "something",
+    id: 1,
+    result: false,
+  },
+  {
+    className: "singleImage",
+    src: "./images/C3.jpg",
+    alt: "something",
+    id: 2,
+    result: false,
+  },
+  {
+    className: "singleImage",
+    src: "./images/C4.jpg",
+    alt: "something",
+    id: 3,
+    result: false,
+  },
+  {
+    className: "singleImage",
+    src: "./images/C5.jpg",
+    alt: "something",
+    id: 4,
+    result: false,
+  },
+  {
+    className: "singleImage",
+    src: "./images/C6.jpg",
+    alt: "something",
+    id: 5,
+    result: false,
+  },
+  {
+    className: "singleImage",
+    src: "./images/C7.jpg",
+    alt: "something",
+    id: 6,
+    result: false,
+  },
+  {
+    className: "singleImage",
+    src: "./images/C8.jpg",
+    alt: "something",
+    id: 7,
+    result: false,
+  },
+  {
+    className: "singleImage",
+    src: "./images/F10.jpg",
+    alt: "something",
+    id: 8,
+    result: true,
+  },
+
+];
